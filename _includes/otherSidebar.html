@@ -1,0 +1,36 @@
+<h3>Check us out on social media</h3>
+
+<div class="fa-ul">
+  <div class="row">
+    <div class="col-md-4">
+      <li><a href="www.twitter.com/jamesconroy"<i class="fa fa-twitter fa-2x"></i></a></li>
+      <li><a href="www.twitter.com/jamesconroy"<i class="fa fa-pinterest fa-2x"></i></a></li>
+    </div>
+    <div class="col-md-4">
+      <li><a href="www.twitter.com/jamesconroy"<i class="fa fa-facebook-official fa-2x"></i></i></a></li>
+      <li><a href="www.twitter.com/jamesconroy"<i class="fa fa-instagram fa-2x"></i></i></a></li>
+    </div>
+    <div class="col-md-4">
+      <li><a href="www.twitter.com/jamesconroy"<i class="fa fa-youtube fa-2x"></i></i></i></a></li>
+      <li><a href="www.twitter.com/jamesconroy"<i class="fa fa-vine fa-2x"></i></i></i></a></li>
+    </div>
+  </div>
+
+</div>
+
+<h3>About Us</h3>
+
+<p>Once upon a time James and Hollie decided to stop paying rent and buy a house. But, then they thought "maybe we could have people pay their rent to us." So here we are, trying to convert a 120-year-old two-flat into two units, while trying to retain their sanity.</p>
+
+<div class="row">
+  <div class="col-md-12">
+    <img class="img-responsive" src="/assets/img/aboutus/about-us.jpg" alt="James and Hollie" />
+  </div>
+</div>
+
+<h3>Recent Posts</h3>
+<ul>
+  {% for post in site.posts limit: 5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
