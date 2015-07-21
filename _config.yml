@@ -8,3 +8,5 @@ comments: true
 markdown: rdiscount
 
 paginate_path: "/blog/page:num/"
+
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
