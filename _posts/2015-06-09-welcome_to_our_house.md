@@ -13,7 +13,7 @@ I promised you a shit-ton of pictures of [our new digs](http://fancykins.com/201
 
 But enough of my yammering. Onto the good stuff!
 
-![House Outside](/assets/img/post1/1.jpg =725x450)
+![House Outside](/assets/img/post1/1.jpg)
 
 Our building [is a two-flat](http://www.wbez.org/series/curious-city/tale-two-flat-110681), meaning it’s two stories and a basement, and the main and upper level are two separate apartments. The upstairs unit, which is where we’ll live ( … someday), currently has four bedrooms and one bathroom, plus a kitchen, living room, dining room, and random pantries. The downstairs unit, which we’ll fill with tenants who love estate sales, cute decor and cats, currently has three bedrooms and one bathroom, plus a kitchen, living room, dining room, and more random pantries.
 
